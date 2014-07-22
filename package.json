@@ -1,7 +1,7 @@
 {
   "name": "lderp",
   "description": "Extensible, promisified ldapjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "ldap",
     "promise"
@@ -16,7 +16,7 @@
     "email": "aaron.bean@beardon.com",
     "url": "https://github.com/aaronbean"
   },
-  "main": "./lib/lderp",
+  "main": "./lib/ldap",
   "dependencies": {
     "bluebird": "^2.2.2",
     "ldapjs": "^0.7.1",
