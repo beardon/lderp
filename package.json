@@ -16,7 +16,7 @@
     "email": "aaron.bean@beardon.com",
     "url": "https://github.com/aaronbean"
   },
-  "main": "./lib/ldap",
+  "main": "./lib/lderp",
   "dependencies": {
     "bluebird": "^2.2.2",
     "ldapjs": "^0.7.1",
