@@ -1,0 +1,4 @@
+lderp
+=====
+
+Extensible, promisified ldapjs
