@@ -18,9 +18,9 @@
   },
   "main": "./lib/ldap",
   "dependencies": {
-    "bluebird": "^2.2.2",
+    "bluebird": "^2.9.13",
     "ldapjs": "^0.7.1",
-    "lodash": "^2.4.1",
+    "lodash": "^3.5.0",
     "moment": "^2.7.0"
   }
 }
