@@ -1,4 +1,4 @@
 lderp
 =====
 
-Extensible, promisified ldapjs
+Extensible, promisified ldapjs with specific support for Active Directory and eDirectory
