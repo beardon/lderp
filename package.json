@@ -1,7 +1,7 @@
 {
   "name": "lderp",
   "description": "Extensible, promisified ldapjs with specific support for Active Directory and eDirectory",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "keywords": [
     "active directory",
     "ad",
@@ -26,6 +26,7 @@
   "main": "./lib/lderp",
   "dependencies": {
     "ldapjs-promise": "^3.0.5",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "luxon": "^3.4.4"
   }
 }
