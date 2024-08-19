@@ -1,7 +1,7 @@
 {
   "name": "lderp",
   "description": "Extensible, promisified ldapjs with specific support for Active Directory and eDirectory",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "keywords": [
     "active directory",
     "ad",
